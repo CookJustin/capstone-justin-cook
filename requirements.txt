@@ -1,0 +1,9 @@
+jupyterlab
+pandas
+voila
+ipywidgets
+voila-vuetify
+apyori
+apriori
+matplotlib
+numpy
